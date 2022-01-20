@@ -61,16 +61,3 @@ In another, start enqueueing messages:
     python example.py https://news.ycombinator.com
 
 Check out the [user guide] to learn more!
-
-
-## License
-
-dramatiq is licensed under the LGPL.  Please see [COPYING] and
-[COPYING.LESSER] for licensing details.
-
-
-[COPYING.LESSER]: https://github.com/Bogdanp/dramatiq/blob/master/COPYING.LESSER
-[COPYING]: https://github.com/Bogdanp/dramatiq/blob/master/COPYING
-[RabbitMQ]: https://www.rabbitmq.com/
-[Redis]: https://redis.io
-[user guide]: https://dramatiq.io/guide.html
